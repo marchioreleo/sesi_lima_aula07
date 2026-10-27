@@ -10,7 +10,7 @@ btnCadastrar.addEventListener('click', () => {
 })
 
 btnCancelar.addEventListener('click', () => {
-    modal.Close()
+    modal.close()
 })
 
 form.addEventListener('submit', (evento) => {
