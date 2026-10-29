@@ -1,0 +1,27 @@
+{
+  "name": "site_jogos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marchioreleo/sesi_lima_aula07.git"
+  },
+  "keywords": [],
+  "author": "marchioreleo",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marchioreleo/sesi_lima_aula07/issues"
+  },
+  "homepage": "https://github.com/marchioreleo/sesi_lima_aula07#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6"
+  }
+}
